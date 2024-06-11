@@ -1,0 +1,854 @@
+match_no,Bowler,team,over,run,wicket,No_ball,ECO,Opposition Team
+1,Mohammed Shami,Gujarat Titans,4,29,2,1,7.3,Chennai Super Kings
+1,Hardik Pandya,Gujarat Titans,3,28,0,0,9.3,Chennai Super Kings
+1,Joshua Little,Gujarat Titans,4,41,1,0,10.3,Chennai Super Kings
+1,Rashid Khan,Gujarat Titans,4,26,2,0,6.5,Chennai Super Kings
+1,Alzarri Joseph,Gujarat Titans,4,33,2,0,8.3,Chennai Super Kings
+1,Yash Dayal,Gujarat Titans,1,14,0,0,14,Chennai Super Kings
+1,Deepak Chahar,Chennai Super Kings,4,29,0,0,7.3,Gujarat Titans
+1,Tushar Deshpande,Chennai Super Kings,3.2,51,1,1,15.9,Gujarat Titans
+1,Rajvardhan Hangargekar,Chennai Super Kings,4,36,3,1,9,Gujarat Titans
+1,Mitchell Santner,Chennai Super Kings,4,32,0,0,8,Gujarat Titans
+1,Ravindra Jadeja,Chennai Super Kings,4,28,1,0,7,Gujarat Titans
+2,Umesh Yadav,Kolkata Knight Riders,4,27,1,0,6.8,Punjab Kings
+2,Tim Southee,Kolkata Knight Riders,4,54,2,0,13.5,Punjab Kings
+2,Sunil Narine,Kolkata Knight Riders,4,40,1,0,10,Punjab Kings
+2,Varun Chakaravarthy,Kolkata Knight Riders,4,26,1,0,6.5,Punjab Kings
+2,Shardul Thakur,Kolkata Knight Riders,4,43,0,1,10.8,Punjab Kings
+2,Sam Curran,Punjab Kings,3,38,1,0,12.7,Kolkata Knight Riders
+2,Arshdeep Singh,Punjab Kings,3,19,3,0,6.3,Kolkata Knight Riders
+2,Nathan Ellis,Punjab Kings,3,27,1,2,9,Kolkata Knight Riders
+2,Sikandar Raza,Punjab Kings,3,25,1,0,8.3,Kolkata Knight Riders
+2,Rishi Dhawan,Punjab Kings,1,15,0,0,15,Kolkata Knight Riders
+2,Rahul Chahar,Punjab Kings,2,12,1,0,6,Kolkata Knight Riders
+2,Harpreet Brar,Punjab Kings,1,7,0,0,7,Kolkata Knight Riders
+3,Kyle Mayers,Lucknow Super Giants,1,7,0,0,7,Delhi Capitals
+3,Jaydev Unadkat,Lucknow Super Giants,3,39,0,0,13,Delhi Capitals
+3,Krishnappa Gowtham,Lucknow Super Giants,4,23,0,0,5.8,Delhi Capitals
+3,Avesh Khan,Lucknow Super Giants,4,29,2,0,7.3,Delhi Capitals
+3,Mark Wood,Lucknow Super Giants,4,14,5,1,3.5,Delhi Capitals
+3,Ravi Bishnoi,Lucknow Super Giants,4,31,2,0,7.8,Delhi Capitals
+3,Khaleel Ahmed,Delhi Capitals,4,30,2,0,7.5,Lucknow Super Giants
+3,Mukesh Kumar,Delhi Capitals,4,34,0,0,8.5,Lucknow Super Giants
+3,Chetan Sakariya,Delhi Capitals,4,53,2,0,13.3,Lucknow Super Giants
+3,Axar Patel,Delhi Capitals,4,38,1,0,9.5,Lucknow Super Giants
+3,Kuldeep Yadav,Delhi Capitals,4,35,1,0,8.8,Lucknow Super Giants
+4,Bhuvneshwar Kumar,Sunrisers Hyderabad,3,36,0,0,12,Rajasthan Royals
+4,Fazalhaq Farooqi,Sunrisers Hyderabad,4,41,2,0,10.3,Rajasthan Royals
+4,Washington Sundar,Sunrisers Hyderabad,3,32,0,0,10.7,Rajasthan Royals
+4,T Natarajan,Sunrisers Hyderabad,3,23,2,0,7.7,Rajasthan Royals
+4,Adil Rashid,Sunrisers Hyderabad,4,33,0,0,8.3,Rajasthan Royals
+4,Umran Malik,Sunrisers Hyderabad,3,32,1,0,10.7,Rajasthan Royals
+4,Trent Boult,Rajasthan Royals,4,21,2,0,5.3,Sunrisers Hyderabad
+4,KM Asif,Rajasthan Royals,3,15,0,0,5,Sunrisers Hyderabad
+4,Jason Holder,Rajasthan Royals,3,16,1,0,5.3,Sunrisers Hyderabad
+4,Ravichandran Ashwin,Rajasthan Royals,4,27,1,0,6.8,Sunrisers Hyderabad
+4,Yuzvendra Chahal,Rajasthan Royals,4,17,4,0,4.3,Sunrisers Hyderabad
+4,Navdeep Saini,Rajasthan Royals,2,34,0,3,17,Sunrisers Hyderabad
+5,Mohammed Siraj,Royal Challengers Bangalore,4,21,1,0,5.3,Mumbai Indians
+5,Reece Topley,Royal Challengers Bangalore,2,14,1,0,7,Mumbai Indians
+5,Akash Deep,Royal Challengers Bangalore,3,29,1,0,9.7,Mumbai Indians
+5,Harshal Patel,Royal Challengers Bangalore,4,43,1,1,10.8,Mumbai Indians
+5,Karn Sharma,Royal Challengers Bangalore,4,32,2,0,8,Mumbai Indians
+5,Michael Bracewell,Royal Challengers Bangalore,2,16,1,0,8,Mumbai Indians
+5,Glenn Maxwell,Royal Challengers Bangalore,1,16,1,0,16,Mumbai Indians
+5,Jason Behrendorff,Mumbai Indians,3,37,0,0,12.3,Royal Challengers Bangalore
+5,Arshad Khan,Mumbai Indians,2.2,28,1,0,12.7,Royal Challengers Bangalore
+5,Jofra Archer,Mumbai Indians,4,33,0,0,8.3,Royal Challengers Bangalore
+5,Piyush Chawla,Mumbai Indians,4,26,0,0,6.5,Royal Challengers Bangalore
+5,Cameron Green,Mumbai Indians,2,30,1,0,15,Royal Challengers Bangalore
+5,Hrithik Shokeen,Mumbai Indians,1,17,0,0,17,Royal Challengers Bangalore
+6,Kyle Mayers,Lucknow Super Giants,2,16,0,0,8,Chennai Super Kings
+6,Avesh Khan,Lucknow Super Giants,3,39,1,0,13,Chennai Super Kings
+6,Krunal Pandya,Lucknow Super Giants,2,21,0,0,10.5,Chennai Super Kings
+6,Krishnappa Gowtham,Lucknow Super Giants,1,20,0,0,20,Chennai Super Kings
+6,Mark Wood,Lucknow Super Giants,4,49,3,0,12.3,Chennai Super Kings
+6,Yash Thakur,Lucknow Super Giants,4,36,0,1,9,Chennai Super Kings
+6,Ravi Bishnoi,Lucknow Super Giants,4,28,3,0,7,Chennai Super Kings
+6,Deepak Chahar,Chennai Super Kings,4,55,0,0,13.8,Lucknow Super Giants
+6,Ben Stokes,Chennai Super Kings,1,18,0,0,18,Lucknow Super Giants
+6,Tushar Deshpande,Chennai Super Kings,4,45,2,3,11.3,Lucknow Super Giants
+6,Moeen Ali,Chennai Super Kings,4,26,4,0,6.5,Lucknow Super Giants
+6,Mitchell Santner,Chennai Super Kings,4,21,1,0,5.3,Lucknow Super Giants
+6,RS Hangargekar,Chennai Super Kings,2,24,0,0,12,Lucknow Super Giants
+6,Ravindra Jadeja,Chennai Super Kings,1,14,0,0,14,Lucknow Super Giants
+7,Khaleel Ahmed,Delhi Capitals,4,38,1,0,9.5,Gujarat Titans
+7,Mukesh Kumar,Delhi Capitals,4,42,0,0,10.5,Gujarat Titans
+7,Anrich Nortje,Delhi Capitals,4,39,2,2,9.8,Gujarat Titans
+7,Mitchell Marsh,Delhi Capitals,3.1,24,1,1,7.7,Gujarat Titans
+7,Kuldeep Yadav,Delhi Capitals,3,18,0,0,6,Gujarat Titans
+7,Mohammed Shami,Gujarat Titans,4,41,3,0,10.3,Delhi Capitals
+7,Joshua Little,Gujarat Titans,4,27,0,0,6.8,Delhi Capitals
+7,Hardik Pandya,Gujarat Titans,3,18,0,0,6,Delhi Capitals
+7,Alzarri Joseph,Gujarat Titans,4,29,2,0,7.3,Delhi Capitals
+7,Yash Dayal,Gujarat Titans,1,12,0,0,12,Delhi Capitals
+7,Rashid Khan,Gujarat Titans,4,31,3,0,7.8,Delhi Capitals
+8,Sam Curran,Punjab Kings,4,44,0,0,11,Rajasthan Royals
+8,Arshdeep Singh,Punjab Kings,4,47,2,0,11.8,Rajasthan Royals
+8,Harpreet Brar,Punjab Kings,2,15,0,0,7.5,Rajasthan Royals
+8,Nathan Ellis,Punjab Kings,4,30,4,0,7.5,Rajasthan Royals
+8,Rahul Chahar,Punjab Kings,4,31,0,0,7.8,Rajasthan Royals
+8,Sikandar Raza,Punjab Kings,2,24,0,0,12,Rajasthan Royals
+8,Trent Boult,Rajasthan Royals,4,38,0,0,9.5,Punjab Kings
+8,KM Asif,Rajasthan Royals,4,54,0,1,13.5,Punjab Kings
+8,Ravichandran Ashwin,Rajasthan Royals,4,25,1,0,6.3,Punjab Kings
+8,Jason Holder,Rajasthan Royals,4,29,2,0,7.3,Punjab Kings
+8,Yuzvendra Chahal,Rajasthan Royals,4,50,1,0,12.5,Punjab Kings
+9,Mohammed Siraj,Royal Challengers Bangalore,4,44,1,1,11,Kolkata Knight Riders
+9,David Willey,Royal Challengers Bangalore,4,16,2,0,4,Kolkata Knight Riders
+9,Akash Deep,Royal Challengers Bangalore,2,30,0,2,15,Kolkata Knight Riders
+9,Michael Bracewell,Royal Challengers Bangalore,3,34,1,0,11.3,Kolkata Knight Riders
+9,Shahbaz Ahmed,Royal Challengers Bangalore,1,6,0,0,6,Kolkata Knight Riders
+9,Karn Sharma,Royal Challengers Bangalore,3,26,2,0,8.7,Kolkata Knight Riders
+9,Harshal Patel,Royal Challengers Bangalore,3,38,1,0,12.7,Kolkata Knight Riders
+9,Umesh Yadav,Kolkata Knight Riders,2,17,0,0,8.5,Royal Challengers Bangalore
+9,Tim Southee,Kolkata Knight Riders,2,25,0,0,12.5,Royal Challengers Bangalore
+9,Sunil Narine,Kolkata Knight Riders,4,16,2,0,4,Royal Challengers Bangalore
+9,Varun Chakaravarthy,Kolkata Knight Riders,3.4,15,4,0,4.4,Royal Challengers Bangalore
+9,Suyash Sharma,Kolkata Knight Riders,4,30,3,0,7.5,Royal Challengers Bangalore
+9,Shardul Thakur,Kolkata Knight Riders,2,15,1,0,7.5,Royal Challengers Bangalore
+10,Kyle Mayers,Lucknow Super Giants,1,5,0,0,5,Sunrisers Hyderabad
+10,Jaydev Unadkat,Lucknow Super Giants,3,26,0,0,8.7,Sunrisers Hyderabad
+10,Krunal Pandya,Lucknow Super Giants,4,18,3,0,4.5,Sunrisers Hyderabad
+10,Yash Thakur,Lucknow Super Giants,3,24,1,0,8,Sunrisers Hyderabad
+10,Ravi Bishnoi,Lucknow Super Giants,4,16,1,0,4,Sunrisers Hyderabad
+10,Deepak Hooda,Lucknow Super Giants,1,8,0,0,8,Sunrisers Hyderabad
+10,Amit Mishra,Lucknow Super Giants,4,23,2,0,5.8,Sunrisers Hyderabad
+10,Bhuvneshwar Kumar,Sunrisers Hyderabad,2,19,1,0,9.5,Lucknow Super Giants
+10,Washington Sundar,Sunrisers Hyderabad,1,11,0,0,11,Lucknow Super Giants
+10,Fazalhaq Farooqi,Sunrisers Hyderabad,3,13,1,0,4.3,Lucknow Super Giants
+10,Aiden Markram,Sunrisers Hyderabad,2,14,0,0,7,Lucknow Super Giants
+10,Adil Rashid,Sunrisers Hyderabad,3,23,2,0,7.7,Lucknow Super Giants
+10,T Natarajan,Sunrisers Hyderabad,3,23,0,0,7.7,Lucknow Super Giants
+10,Umran Malik,Sunrisers Hyderabad,2,22,1,0,11,Lucknow Super Giants
+11,Khaleel Ahmed,Delhi Capitals,2,31,0,0,15.5,Rajasthan Royals
+11,Anrich Nortje,Delhi Capitals,4,44,0,0,11,Rajasthan Royals
+11,Mukesh Kumar,Delhi Capitals,4,36,2,0,9,Rajasthan Royals
+11,Axar Patel,Delhi Capitals,4,38,0,0,9.5,Rajasthan Royals
+11,Kuldeep Yadav,Delhi Capitals,4,31,1,0,7.8,Rajasthan Royals
+11,Rovman Powell,Delhi Capitals,2,18,1,1,9,Rajasthan Royals
+11,Trent Boult,Rajasthan Royals,4,29,3,0,7.3,Delhi Capitals
+11,Sandeep Sharma,Rajasthan Royals,4,20,1,0,5,Delhi Capitals
+11,Ravichandran Ashwin,Rajasthan Royals,4,25,2,0,6.3,Delhi Capitals
+11,Jason Holder,Rajasthan Royals,3,28,0,0,9.3,Delhi Capitals
+11,Yuzvendra Chahal,Rajasthan Royals,4,27,3,0,6.8,Delhi Capitals
+11,Murugan Ashwin,Rajasthan Royals,1,11,0,1,11,Delhi Capitals
+12,Deepak Chahar,Chennai Super Kings,1,10,0,0,10,Mumbai Indians
+12,Tushar Deshpande,Chennai Super Kings,3,31,2,0,10.3,Mumbai Indians
+12,Sisanda Magala,Chennai Super Kings,4,37,1,0,9.3,Mumbai Indians
+12,Mitchell Santner,Chennai Super Kings,4,28,2,0,7,Mumbai Indians
+12,Ravindra Jadeja,Chennai Super Kings,4,20,3,0,5,Mumbai Indians
+12,Dwaine Pretorius,Chennai Super Kings,4,28,0,0,7,Mumbai Indians
+12,Jason Behrendorff,Mumbai Indians,3,24,1,0,8,Chennai Super Kings
+12,Arshad Khan,Mumbai Indians,2.1,35,0,0,16.7,Chennai Super Kings
+12,Cameron Green,Mumbai Indians,3,20,0,0,6.7,Chennai Super Kings
+12,Piyush Chawla,Mumbai Indians,4,33,1,0,8.3,Chennai Super Kings
+12,Kumar Kartikeya,Mumbai Indians,4,24,1,0,6,Chennai Super Kings
+12,Hrithik Shokeen,Mumbai Indians,2,19,0,0,9.5,Chennai Super Kings
+13,Mohammed Shami,Gujarat Titans,4,28,1,0,7,Kolkata Knight Riders
+13,Joshua Little,Gujarat Titans,4,45,1,0,11.3,Kolkata Knight Riders
+13,Alzarri Joseph,Gujarat Titans,4,27,2,0,6.8,Kolkata Knight Riders
+13,Yash Dayal,Gujarat Titans,4,69,0,0,17.3,Kolkata Knight Riders
+13,Rashid Khan,Gujarat Titans,4,37,3,0,9.3,Kolkata Knight Riders
+13,Umesh Yadav,Kolkata Knight Riders,3,24,0,0,8,Gujarat Titans
+13,Shardul Thakur,Kolkata Knight Riders,3,40,0,0,13.3,Gujarat Titans
+13,Lockie Ferguson,Kolkata Knight Riders,4,40,0,1,10,Gujarat Titans
+13,Sunil Narine,Kolkata Knight Riders,4,33,3,0,8.3,Gujarat Titans
+13,Varun Chakaravarthy,Kolkata Knight Riders,2,27,0,0,13.5,Gujarat Titans
+13,Suyash Sharma,Kolkata Knight Riders,4,35,1,0,8.8,Gujarat Titans
+14,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,33,1,0,8.3,Punjab Kings
+14,Marco Jansen,Sunrisers Hyderabad,3,16,2,0,5.3,Punjab Kings
+14,T Natarajan,Sunrisers Hyderabad,4,40,0,0,10,Punjab Kings
+14,Washington Sundar,Sunrisers Hyderabad,1,6,0,0,6,Punjab Kings
+14,Mayank Markande,Sunrisers Hyderabad,4,15,4,0,3.8,Punjab Kings
+14,Umran Malik,Sunrisers Hyderabad,4,32,2,0,8,Punjab Kings
+14,Sam Curran,Punjab Kings,3,14,0,0,4.7,Sunrisers Hyderabad
+14,Arshdeep Singh,Punjab Kings,3,20,1,0,6.7,Sunrisers Hyderabad
+14,Harpreet Brar,Punjab Kings,3.1,26,0,0,8.4,Sunrisers Hyderabad
+14,Nathan Ellis,Punjab Kings,3,28,0,0,9.3,Sunrisers Hyderabad
+14,Rahul Chahar,Punjab Kings,3,28,1,0,9.3,Sunrisers Hyderabad
+14,Mohit Rathee,Punjab Kings,2,29,0,0,14.5,Sunrisers Hyderabad
+15,Jaydev Unadkat,Lucknow Super Giants,2,27,0,0,13.5,Royal Challengers Bangalore
+15,Avesh Khan,Lucknow Super Giants,4,53,0,0,13.3,Royal Challengers Bangalore
+15,Krunal Pandya,Lucknow Super Giants,4,35,0,0,8.8,Royal Challengers Bangalore
+15,Mark Wood,Lucknow Super Giants,4,32,1,0,8,Royal Challengers Bangalore
+15,Ravi Bishnoi,Lucknow Super Giants,4,39,0,0,9.8,Royal Challengers Bangalore
+15,Amit Mishra,Lucknow Super Giants,2,18,1,0,9,Royal Challengers Bangalore
+15,Mohammed Siraj,Royal Challengers Bangalore,4,22,3,0,5.5,Lucknow Super Giants
+15,David Willey,Royal Challengers Bangalore,4,32,0,0,8,Lucknow Super Giants
+15,Wayne Parnell,Royal Challengers Bangalore,4,41,3,0,10.3,Lucknow Super Giants
+15,Harshal Patel,Royal Challengers Bangalore,4,48,2,0,12,Lucknow Super Giants
+15,Karn Sharma,Royal Challengers Bangalore,3,48,1,0,16,Lucknow Super Giants
+15,Shahbaz Ahmed,Royal Challengers Bangalore,1,15,0,0,15,Lucknow Super Giants
+16,Jason Behrendorff,Mumbai Indians,3,23,3,0,7.7,Delhi Capitals
+16,Arshad Khan,Mumbai Indians,1,12,0,0,12,Delhi Capitals
+16,Cameron Green,Mumbai Indians,3,30,0,0,10,Delhi Capitals
+16,Hrithik Shokeen,Mumbai Indians,4,43,1,1,10.8,Delhi Capitals
+16,Riley Meredith,Mumbai Indians,3.4,34,2,1,10,Delhi Capitals
+16,Piyush Chawla,Mumbai Indians,4,22,3,0,5.5,Delhi Capitals
+16,Tilak Varma,Mumbai Indians,1,7,0,0,7,Delhi Capitals
+16,Mukesh Kumar,Delhi Capitals,2,30,2,0,15,Mumbai Indians
+16,Mustafizur Rahman,Delhi Capitals,4,38,1,0,9.5,Mumbai Indians
+16,Anrich Nortje,Delhi Capitals,4,35,0,0,8.8,Mumbai Indians
+16,Lalit Yadav,Delhi Capitals,4,23,0,0,5.8,Mumbai Indians
+16,Axar Patel,Delhi Capitals,4,20,0,0,5,Mumbai Indians
+16,Kuldeep Yadav,Delhi Capitals,2,23,0,0,11.5,Mumbai Indians
+17,Akash Singh,Chennai Super Kings,4,40,2,0,10,Rajasthan Royals
+17,Tushar Deshpande,Chennai Super Kings,4,37,2,0,9.3,Rajasthan Royals
+17,Maheesh Theekshana,Chennai Super Kings,4,42,0,0,10.5,Rajasthan Royals
+17,Ravindra Jadeja,Chennai Super Kings,4,21,2,0,5.3,Rajasthan Royals
+17,Moeen Ali,Chennai Super Kings,2,21,1,0,10.5,Rajasthan Royals
+17,Sisanda Magala,Chennai Super Kings,2,14,0,0,7,Rajasthan Royals
+17,Sandeep Sharma,Rajasthan Royals,3,30,1,0,10,Chennai Super Kings
+17,Kuldeep Sen,Rajasthan Royals,2,8,0,0,4,Chennai Super Kings
+17,Jason Holder,Rajasthan Royals,3,37,0,0,12.3,Chennai Super Kings
+17,Adam Zampa,Rajasthan Royals,4,43,1,0,10.8,Chennai Super Kings
+17,Ravichandran Ashwin,Rajasthan Royals,4,25,2,0,6.3,Chennai Super Kings
+17,Yuzvendra Chahal,Rajasthan Royals,4,27,2,0,6.8,Chennai Super Kings
+18,Mohammed Shami,Gujarat Titans,4,44,1,0,11,Punjab Kings
+18,Joshua Little,Gujarat Titans,4,31,1,0,7.8,Punjab Kings
+18,Alzarri Joseph,Gujarat Titans,4,32,1,0,8,Punjab Kings
+18,Mohit Sharma,Gujarat Titans,4,26,1,0,6.5,Punjab Kings
+18,Rashid Khan,Gujarat Titans,4,18,2,0,4.5,Punjab Kings
+18,Arshdeep Singh,Punjab Kings,4,33,1,0,8.3,Gujarat Titans
+18,Kagiso Rabada,Punjab Kings,4,36,1,0,9,Gujarat Titans
+18,Harpreet Brar,Punjab Kings,4,20,1,0,5,Gujarat Titans
+18,Sam Curran,Punjab Kings,3.5,25,1,0,7.1,Gujarat Titans
+18,Rahul Chahar,Punjab Kings,3,24,0,0,8,Gujarat Titans
+18,Matthew Short,Punjab Kings,1,8,0,0,8,Gujarat Titans
+19,Umesh Yadav,Kolkata Knight Riders,3,42,0,0,14,Sunrisers Hyderabad
+19,Lockie Ferguson,Kolkata Knight Riders,2,37,0,1,18.5,Sunrisers Hyderabad
+19,Sunil Narine,Kolkata Knight Riders,4,28,0,0,7,Sunrisers Hyderabad
+19,Andre Russell,Kolkata Knight Riders,2.1,22,3,0,10.5,Sunrisers Hyderabad
+19,Varun Chakaravarthy,Kolkata Knight Riders,4,41,1,0,10.3,Sunrisers Hyderabad
+19,Suyash Sharma,Kolkata Knight Riders,4,44,0,0,11,Sunrisers Hyderabad
+19,Shardul Thakur,Kolkata Knight Riders,0.5,14,0,0,28,Sunrisers Hyderabad
+19,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,29,1,0,7.3,Kolkata Knight Riders
+19,Marco Jansen,Sunrisers Hyderabad,4,37,2,2,9.3,Kolkata Knight Riders
+19,T Natarajan,Sunrisers Hyderabad,4,54,1,0,13.5,Kolkata Knight Riders
+19,Umran Malik,Sunrisers Hyderabad,2,36,1,0,18,Kolkata Knight Riders
+19,Mayank Markande,Sunrisers Hyderabad,4,27,2,0,6.8,Kolkata Knight Riders
+19,Washington Sundar,Sunrisers Hyderabad,2,20,0,0,10,Kolkata Knight Riders
+20,Anrich Nortje,Delhi Capitals,4,31,0,1,7.8,Royal Challengers Bangalore
+20,Axar Patel,Delhi Capitals,3,25,1,0,8.3,Royal Challengers Bangalore
+20,Mustafizur Rahman,Delhi Capitals,3,41,0,0,13.7,Royal Challengers Bangalore
+20,Mitchell Marsh,Delhi Capitals,2,18,2,0,9,Royal Challengers Bangalore
+20,Lalit Yadav,Delhi Capitals,4,29,1,0,7.3,Royal Challengers Bangalore
+20,Kuldeep Yadav,Delhi Capitals,4,23,2,0,5.8,Royal Challengers Bangalore
+20,Mohammed Siraj,Royal Challengers Bangalore,4,23,2,0,5.8,Delhi Capitals
+20,Wayne Parnell,Royal Challengers Bangalore,4,28,1,0,7,Delhi Capitals
+20,Vijaykumar Vyshak,Royal Challengers Bangalore,4,20,3,0,5,Delhi Capitals
+20,Shahbaz Ahmed,Royal Challengers Bangalore,1,11,0,0,11,Delhi Capitals
+20,Wanindu Hasaranga,Royal Challengers Bangalore,3,37,1,0,12.3,Delhi Capitals
+20,Harshal Patel,Royal Challengers Bangalore,4,32,1,0,8,Delhi Capitals
+21,Matthew Short,Punjab Kings,2,10,0,0,5,Lucknow Super Giants
+21,Arshdeep Singh,Punjab Kings,3,22,1,0,7.3,Lucknow Super Giants
+21,Kagiso Rabada,Punjab Kings,4,34,2,0,8.5,Lucknow Super Giants
+21,Sam Curran,Punjab Kings,4,31,3,0,7.8,Lucknow Super Giants
+21,Harpreet Brar,Punjab Kings,2,10,1,0,5,Lucknow Super Giants
+21,Sikandar Raza,Punjab Kings,2,19,1,1,9.5,Lucknow Super Giants
+21,Rahul Chahar,Punjab Kings,3,28,0,0,9.3,Lucknow Super Giants
+21,Yudhvir Singh Charak,Lucknow Super Giants,3,19,2,0,6.3,Punjab Kings
+21,Avesh Khan,Lucknow Super Giants,3,24,0,0,8,Punjab Kings
+21,Mark Wood,Lucknow Super Giants,4,35,2,0,8.8,Punjab Kings
+21,Krishnappa Gowtham,Lucknow Super Giants,4,31,1,0,7.8,Punjab Kings
+21,Krunal Pandya,Lucknow Super Giants,3,32,1,0,10.7,Punjab Kings
+21,Ravi Bishnoi,Lucknow Super Giants,2.3,18,2,0,7.8,Punjab Kings
+22,Arjun Tendulkar,Mumbai Indians,2,17,0,0,8.5,Kolkata Knight Riders
+22,Cameron Green,Mumbai Indians,2,20,1,0,10,Kolkata Knight Riders
+22,Duan Jansen,Mumbai Indians,4,53,1,0,13.3,Kolkata Knight Riders
+22,Piyush Chawla,Mumbai Indians,4,19,1,0,4.8,Kolkata Knight Riders
+22,Hrithik Shokeen,Mumbai Indians,4,34,2,0,8.5,Kolkata Knight Riders
+22,Riley Meredith,Mumbai Indians,4,40,1,0,10,Kolkata Knight Riders
+22,Umesh Yadav,Kolkata Knight Riders,2,19,0,0,9.5,Mumbai Indians
+22,Shardul Thakur,Kolkata Knight Riders,2,25,1,0,12.5,Mumbai Indians
+22,Sunil Narine,Kolkata Knight Riders,3,41,0,0,13.7,Mumbai Indians
+22,Suyash Sharma,Kolkata Knight Riders,4,17,2,0,4.3,Mumbai Indians
+22,Varun Chakaravarthy,Kolkata Knight Riders,4,38,1,0,9.5,Mumbai Indians
+22,Lockie Ferguson,Kolkata Knight Riders,1.4,19,1,0,13.6,Mumbai Indians
+22,Andre Russell,Kolkata Knight Riders,1,17,0,0,17,Mumbai Indians
+23,Trent Boult,Rajasthan Royals,4,46,1,0,11.5,Gujarat Titans
+23,Sandeep Sharma,Rajasthan Royals,4,25,2,0,6.3,Gujarat Titans
+23,Adam Zampa,Rajasthan Royals,4,32,1,0,8,Gujarat Titans
+23,Ravichandran Ashwin,Rajasthan Royals,4,37,0,0,9.3,Gujarat Titans
+23,Yuzvendra Chahal,Rajasthan Royals,4,36,1,0,9,Gujarat Titans
+23,Mohammed Shami,Gujarat Titans,4,25,3,0,6.3,Rajasthan Royals
+23,Hardik Pandya,Gujarat Titans,4,24,1,0,6,Rajasthan Royals
+23,Alzarri Joseph,Gujarat Titans,3,47,0,0,15.7,Rajasthan Royals
+23,Rashid Khan,Gujarat Titans,4,46,2,0,11.5,Rajasthan Royals
+23,Mohit Sharma,Gujarat Titans,2,7,0,0,3.5,Rajasthan Royals
+23,Noor Ahmad,Gujarat Titans,2.2,29,1,0,13.2,Rajasthan Royals
+24,Mohammed Siraj,Royal Challengers Bangalore,4,30,1,0,7.5,Chennai Super Kings
+24,Wayne Parnell,Royal Challengers Bangalore,4,48,1,0,12,Chennai Super Kings
+24,Vijaykumar Vyshak,Royal Challengers Bangalore,4,62,1,0,15.5,Chennai Super Kings
+24,Glenn Maxwell,Royal Challengers Bangalore,2.4,28,1,0,11.7,Chennai Super Kings
+24,Wanindu Hasaranga,Royal Challengers Bangalore,2,21,1,0,10.5,Chennai Super Kings
+24,Harshal Patel,Royal Challengers Bangalore,3.2,36,1,2,11.3,Chennai Super Kings
+24,Akash Singh,Chennai Super Kings,3,35,1,0,11.7,Royal Challengers Bangalore
+24,Tushar Deshpande,Chennai Super Kings,4,45,3,0,11.3,Royal Challengers Bangalore
+24,Maheesh Theekshana,Chennai Super Kings,4,41,1,0,10.3,Royal Challengers Bangalore
+24,Ravindra Jadeja,Chennai Super Kings,4,37,0,0,9.3,Royal Challengers Bangalore
+24,Matheesha Pathirana,Chennai Super Kings,4,42,2,0,10.5,Royal Challengers Bangalore
+24,Moeen Ali,Chennai Super Kings,1,13,1,0,13,Royal Challengers Bangalore
+25,Arjun Tendulkar,Mumbai Indians,2.5,18,1,0,7.2,Sunrisers Hyderabad
+25,Jason Behrendorff,Mumbai Indians,4,37,2,0,9.3,Sunrisers Hyderabad
+25,Riley Meredith,Mumbai Indians,4,33,2,0,8.3,Sunrisers Hyderabad
+25,Hrithik Shokeen,Mumbai Indians,1,12,0,0,12,Sunrisers Hyderabad
+25,Piyush Chawla,Mumbai Indians,4,43,2,0,10.8,Sunrisers Hyderabad
+25,Cameron Green,Mumbai Indians,4,29,1,0,7.3,Sunrisers Hyderabad
+25,Bhuvneshwar Kumar,sunrisers Hyderabad,4,31,1,0,7.8,Mumbai Indians
+25,Marco Jansen,sunrisers Hyderabad,4,43,2,0,10.8,Mumbai Indians
+25,Washington Sundar,sunrisers Hyderabad,4,33,0,0,8.3,Mumbai Indians
+25,T Natarajan,sunrisers Hyderabad,4,50,1,0,12.5,Mumbai Indians
+25,Mayank Markande,sunrisers Hyderabad,4,35,0,0,8.8,Mumbai Indians
+26,Trent Boult,Rajasthan Royals,4,16,1,0,4,Lucknow Super Giants
+26,Sandeep Sharma,Rajasthan Royals,4,32,1,1,8,Lucknow Super Giants
+26,Ravichandran Ashwin,Rajasthan Royals,4,23,2,0,5.8,Lucknow Super Giants
+26,Yuzvendra Chahal,Rajasthan Royals,4,41,0,0,10.3,Lucknow Super Giants
+26,Jason Holder,Rajasthan Royals,4,38,1,0,9.5,Lucknow Super Giants
+26,Naveen-ul-Haq,Lucknow Super Giants,4,19,0,0,4.8,Rajasthan Royals
+26,Yudhvir Singh Charak,Lucknow Super Giants,2,27,0,0,13.5,Rajasthan Royals
+26,Avesh Khan,Lucknow Super Giants,4,25,3,0,6.3,Rajasthan Royals
+26,Marco Jansen,Lucknow Super Giants,4,28,2,0,7,Rajasthan Royals
+26,Ravi Bishnoi,Lucknow Super Giants,4,25,0,1,6.3,Rajasthan Royals
+26,Amit Mishra,Lucknow Super Giants,2,15,0,0,7.5,Rajasthan Royals
+27,Mohammed Siraj,Royal Challengers Bangalore,4,21,4,0,5.3,Punjab Kings
+27,Wayne Parnell,Royal Challengers Bangalore,3,32,1,0,10.7,Punjab Kings
+27,Wanindu Hasaranga,Royal Challengers Bangalore,4,39,2,0,9.8,Punjab Kings
+27,Vijaykumar Vyshak,Royal Challengers Bangalore,3,29,0,0,9.7,Punjab Kings
+27,Glenn Maxwell,Royal Challengers Bangalore,1,5,0,0,5,Punjab Kings
+27,Harshal Patel,Royal Challengers Bangalore,3.2,22,1,1,6.9,Punjab Kings
+27,Arshdeep Singh,Punjab Kings,4,34,1,0,8.5,Royal Challengers Bangalore
+27,Harpreet Brar,Punjab Kings,3,31,2,0,10.3,Royal Challengers Bangalore
+27,Nathan Ellis,Punjab Kings,4,41,1,0,10.3,Royal Challengers Bangalore
+27,Sam Curran,Punjab Kings,4,27,0,1,6.8,Royal Challengers Bangalore
+27,Rahul Chahar,Punjab Kings,4,24,0,0,6,Royal Challengers Bangalore
+27,Liam Livingstone,Punjab Kings,1,9,0,0,9,Royal Challengers Bangalore
+28,Ishant Sharma,Delhi Capitals,4,19,2,0,4.8,Kolkata Knight Riders
+28,Mukesh Kumar,Delhi Capitals,4,34,1,0,8.5,Kolkata Knight Riders
+28,Anrich Nortje,Delhi Capitals,4,20,2,0,5,Kolkata Knight Riders
+28,Axar Patel,Delhi Capitals,3,13,2,0,4.3,Kolkata Knight Riders
+28,Mitchell Marsh,Delhi Capitals,2,25,0,0,12.5,Kolkata Knight Riders
+28,Kuldeep Yadav,Delhi Capitals,3,15,2,0,5,Kolkata Knight Riders
+28,Umesh Yadav,Kolkata Knight Riders,1,6,0,0,6,Delhi Capitals
+28,Kulwant Khejroliya,Kolkata Knight Riders,1.2,20,0,0,16.7,Delhi Capitals
+28,Andre Russell,Kolkata Knight Riders,1,12,0,0,12,Delhi Capitals
+28,Sunil Narine,Kolkata Knight Riders,4,36,0,0,9,Delhi Capitals
+28,Varun Chakaravarthy,Kolkata Knight Riders,4,16,2,0,4,Delhi Capitals
+28,Anukul Roy,Kolkata Knight Riders,4,19,2,0,4.8,Delhi Capitals
+28,Nitish Rana,Kolkata Knight Riders,4,17,2,0,4.3,Delhi Capitals
+29,Bhuvneshwar Kumar,sunrisers Hyderabad,2,10,0,0,5,Chennai Super Kings
+29,Marco Jansen,sunrisers Hyderabad,3,37,0,0,12.3,Chennai Super Kings
+29,Aiden Markram,sunrisers Hyderabad,1,11,0,0,11,Chennai Super Kings
+29,Washington Sundar,sunrisers Hyderabad,2.4,16,0,0,6.7,Chennai Super Kings
+29,Mayank Markande,sunrisers Hyderabad,4,23,2,0,5.8,Chennai Super Kings
+29,Umran Malik,sunrisers Hyderabad,3,18,0,0,6,Chennai Super Kings
+29,Mayank Dagar,sunrisers Hyderabad,3,21,0,0,7,Chennai Super Kings
+29,Akash Singh,Chennai Super Kings,3,17,1,0,5.7,Sunrisers Hyderabad
+29,Tushar Deshpande,Chennai Super Kings,3,26,0,0,8.7,Sunrisers Hyderabad
+29,Ravindra Jadeja,Chennai Super Kings,4,27,1,0,6.8,Sunrisers Hyderabad
+29,Maheesh Theekshana,Chennai Super Kings,2,18,0,0,9,Sunrisers Hyderabad
+29,Moeen Ali,Chennai Super Kings,4,22,3,0,5.5,Sunrisers Hyderabad
+29,Matheesha Pathirana,Chennai Super Kings,4,22,1,0,5.5,Sunrisers Hyderabad
+30,Naveen-ul-Haq,Lucknow Super Giants,4,19,1,0,4.8,Gujarat Titans
+30,Krunal Pandya,Lucknow Super Giants,4,16,2,0,4,Gujarat Titans
+30,Avesh Khan,Lucknow Super Giants,3,21,0,0,7,Gujarat Titans
+30,Ravi Bishnoi,Lucknow Super Giants,4,49,0,0,12.3,Gujarat Titans
+30,Marcus Stoinis,Lucknow Super Giants,3,20,2,0,6.7,Gujarat Titans
+30,Amit Mishra,Lucknow Super Giants,2,9,1,0,4.5,Gujarat Titans
+30,Mohammed Shami,Gujarat Titans,3,18,0,0,6,Lucknow Super Giants
+30,Jayant Yadav,Gujarat Titans,4,26,0,0,6.5,Lucknow Super Giants
+30,Rashid Khan,Gujarat Titans,4,33,1,0,8.3,Lucknow Super Giants
+30,Mohit Sharma,Gujarat Titans,3,17,2,0,5.7,Lucknow Super Giants
+30,Noor Ahmad,Gujarat Titans,4,18,2,0,4.5,Lucknow Super Giants
+30,Hardik Pandya,Gujarat Titans,1,7,0,0,7,Lucknow Super Giants
+30,Rahul Tewatia,Gujarat Titans,1,8,0,0,8,Lucknow Super Giants
+31,Arjun Tendulkar,Mumbai Indians,3,48,1,1,16,Punjab Kings
+31,Jason Behrendorff,Mumbai Indians,3,41,1,0,13.7,Punjab Kings
+31,Cameron Green,Mumbai Indians,4,41,2,0,10.3,Punjab Kings
+31,Jofra Archer,Mumbai Indians,4,42,1,0,10.5,Punjab Kings
+31,Piyush Chawla,Mumbai Indians,3,15,2,0,5,Punjab Kings
+31,Hrithik Shokeen,Mumbai Indians,3,24,0,1,8,Punjab Kings
+31,Matthew Short,Punjab Kings,1,7,0,0,7,Mumbai Indians
+31,Arshdeep Singh,Punjab Kings,4,29,4,0,7.3,Mumbai Indians
+31,Harpreet Brar,Punjab Kings,2,15,0,0,7.5,Mumbai Indians
+31,Sam Curran,Punjab Kings,3,41,0,0,13.7,Mumbai Indians
+31,Nathan Ellis,Punjab Kings,4,44,1,0,11,Mumbai Indians
+31,Rahul Chahar,Punjab Kings,4,42,0,0,10.5,Mumbai Indians
+31,Liam Livingstone,Punjab Kings,2,13,1,0,6.5,Mumbai Indians
+32,Trent Boult,Rajasthan Royals,4,41,2,0,10.3,Royal Challengers Bangalore
+32,Sandeep Sharma,Rajasthan Royals,4,49,2,0,12.3,Royal Challengers Bangalore
+32,Ravichandran Ashwin,Rajasthan Royals,4,36,1,0,9,Royal Challengers Bangalore
+32,Yuzvendra Chahal,Rajasthan Royals,4,28,1,0,7,Royal Challengers Bangalore
+32,Jason Holder,Rajasthan Royals,4,32,0,0,8,Royal Challengers Bangalore
+32,Mohammed Siraj,Royal Challengers Bangalore,4,39,1,0,9.8,Rajasthan Royals
+32,David Willey,Royal Challengers Bangalore,4,26,1,0,6.5,Rajasthan Royals
+32,Vijaykumar Vyshak,Royal Challengers Bangalore,2,24,0,0,12,Rajasthan Royals
+32,Glenn Maxwell,Royal Challengers Bangalore,2,25,0,0,12.5,Rajasthan Royals
+32,Harshal Patel,Royal Challengers Bangalore,4,32,3,0,8,Rajasthan Royals
+32,Wanindu Hasaranga,Royal Challengers Bangalore,4,32,0,0,8,Rajasthan Royals
+33,Umesh Yadav,Kolkata Knight Riders,3,35,0,0,11.7,Chennai Super Kings
+33,David Wiese,Kolkata Knight Riders,3,38,0,0,12.7,Chennai Super Kings
+33,Varun Chakaravarthy,Kolkata Knight Riders,4,49,1,0,12.3,Chennai Super Kings
+33,Kulwant Khejroliya,Kolkata Knight Riders,3,44,2,1,14.7,Chennai Super Kings
+33,Sunil Narine,Kolkata Knight Riders,2,23,0,0,11.5,Chennai Super Kings
+33,Suyash Sharma,Kolkata Knight Riders,4,29,1,0,7.3,Chennai Super Kings
+33,Andre Russell,Kolkata Knight Riders,1,17,0,0,17,Chennai Super Kings
+33,Akash Singh,Chennai Super Kings,4,29,1,0,7.3,Kolkata Knight Riders
+33,Tushar Deshpande,Chennai Super Kings,4,43,2,0,10.8,Kolkata Knight Riders
+33,Maheesh Theekshana,Chennai Super Kings,4,32,2,0,8,Kolkata Knight Riders
+33,Moeen Ali,Chennai Super Kings,1,20,1,0,20,Kolkata Knight Riders
+33,Ravindra Jadeja,Chennai Super Kings,3,34,1,0,11.3,Kolkata Knight Riders
+33,Matheesha Pathirana,Chennai Super Kings,4,27,1,0,6.8,Kolkata Knight Riders
+34,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,11,2,0,2.8,Delhi Capitals
+34,Marco Jansen,Sunrisers Hyderabad,2,27,0,0,13.5,Delhi Capitals
+34,Washington Sundar,Sunrisers Hyderabad,4,28,3,0,7,Delhi Capitals
+34,T Natarajan,Sunrisers Hyderabad,3,21,1,0,7,Delhi Capitals
+34,Mayank Markande,Sunrisers Hyderabad,4,34,0,0,8.5,Delhi Capitals
+34,Umran Malik,Sunrisers Hyderabad,2,14,0,0,7,Delhi Capitals
+34,Aiden Markram,Sunrisers Hyderabad,1,7,0,0,7,Delhi Capitals
+34,Ishant Sharma,Delhi Capitals,3,18,1,0,6,Sunrisers Hyderabad
+34,Anrich Nortje,Delhi Capitals,4,33,2,0,8.3,Sunrisers Hyderabad
+34,Mukesh Kumar,Delhi Capitals,3,27,0,0,9,Sunrisers Hyderabad
+34,Axar Patel,Delhi Capitals,4,21,2,0,5.3,Sunrisers Hyderabad
+34,Kuldeep Yadav,Delhi Capitals,4,22,1,0,5.5,Sunrisers Hyderabad
+34,Mitchell Marsh,Delhi Capitals,2,16,0,1,8,Sunrisers Hyderabad
+35,Arjun Tendulkar,Mumbai Indians,2,9,1,0,4.5,Gujarat Titans
+35,Jason Behrendorff,Mumbai Indians,4,37,1,0,9.3,Gujarat Titans
+35,Riley Meredith,Mumbai Indians,4,49,1,0,12.3,Gujarat Titans
+35,Cameron Green,Mumbai Indians,2,39,0,0,19.5,Gujarat Titans
+35,Piyush Chawla,Mumbai Indians,4,34,2,0,8.5,Gujarat Titans
+35,Kumar Kartikeya,Mumbai Indians,4,39,1,0,9.8,Gujarat Titans
+35,Mohammed Shami,Gujarat Titans,4,18,0,0,4.5,Mumbai Indians
+35,Hardik Pandya,Gujarat Titans,2,10,1,0,5,Mumbai Indians
+35,Rashid Khan,Gujarat Titans,4,27,2,0,6.8,Mumbai Indians
+35,Noor Ahmad,Gujarat Titans,4,37,3,0,9.3,Mumbai Indians
+35,Mohit Sharma,Gujarat Titans,4,38,2,0,9.5,Mumbai Indians
+35,Joshua Little,Gujarat Titans,2,18,0,0,9,Mumbai Indians
+36,Mohammed Siraj,Royal Challengers Bangalore,4,33,1,0,8.3,Kolkata Knight Riders
+36,David Willey,Royal Challengers Bangalore,3,31,0,0,10.3,Kolkata Knight Riders
+36,Wanindu Hasaranga,Royal Challengers Bangalore,4,24,2,0,6,Kolkata Knight Riders
+36,Shahbaz Ahmed,Royal Challengers Bangalore,1,25,0,0,25,Kolkata Knight Riders
+36,Vijaykumar Vyshak,Royal Challengers Bangalore,4,41,2,0,10.3,Kolkata Knight Riders
+36,Harshal Patel,Royal Challengers Bangalore,4,44,0,0,11,Kolkata Knight Riders
+36,Vaibhav Arora,Kolkata Knight Riders,2,22,0,0,11,Royal Challengers Bangalore
+36,Umesh Yadav,Kolkata Knight Riders,1,19,0,0,19,Royal Challengers Bangalore
+36,Suyash Sharma,Kolkata Knight Riders,4,30,2,0,7.5,Royal Challengers Bangalore
+36,Varun Chakaravarthy,Kolkata Knight Riders,4,27,3,0,6.8,Royal Challengers Bangalore
+36,Andre Russell,Kolkata Knight Riders,4,29,2,0,7.3,Royal Challengers Bangalore
+36,Sunil Narine,Kolkata Knight Riders,4,41,0,0,10.3,Royal Challengers Bangalore
+36,Nitish Rana,Kolkata Knight Riders,1,8,0,0,8,Royal Challengers Bangalore
+37,Akash Singh,Chennai Super Kings,2,31,0,0,15.5,Rajasthan Royals
+37,Tushar Deshpande,Chennai Super Kings,4,42,2,0,10.5,Rajasthan Royals
+37,Maheesh Theekshana,Chennai Super Kings,4,24,1,0,6,Rajasthan Royals
+37,Ravindra Jadeja,Chennai Super Kings,4,32,1,0,8,Rajasthan Royals
+37,Moeen Ali,Chennai Super Kings,2,17,0,0,8.5,Rajasthan Royals
+37,Matheesha Pathirana,Chennai Super Kings,4,48,0,0,12,Rajasthan Royals
+37,Sandeep Sharma,Rajasthan Royals,4,24,0,0,6,Chennai Super Kings
+37,Kuldip Yadav,Rajasthan Royals,3,18,1,0,6,Chennai Super Kings
+37,Jason Holder,Rajasthan Royals,4,49,0,0,12.3,Chennai Super Kings
+37,Ravichandran Ashwin,Rajasthan Royals,4,35,2,0,8.8,Chennai Super Kings
+37,Adam Zampa,Rajasthan Royals,3,22,3,0,7.3,Chennai Super Kings
+37,Yuzvendra Chahal,Rajasthan Royals,2,21,0,0,10.5,Chennai Super Kings
+38,Gurnoor Brar,Punjab Kings,3,48,0,2,16,Lucknow Super Giants
+38,Arshdeep Singh,Punjab Kings,4,54,1,0,13.5,Lucknow Super Giants
+38,Kagiso Rabada,Punjab Kings,4,52,2,2,13,Lucknow Super Giants
+38,Sikandar Raza,Punjab Kings,1,17,0,0,17,Lucknow Super Giants
+38,Rahul Chahar,Punjab Kings,4,29,0,0,7.3,Lucknow Super Giants
+38,Sam Curran,Punjab Kings,3,38,1,0,12.7,Lucknow Super Giants
+38,Liam Livingstone,Punjab Kings,1,19,1,0,19,Lucknow Super Giants
+38,Marcus Stoinis,Lucknow Super Giants,1.5,21,1,0,14,Punjab Kings
+38,Kyle Mayers,Lucknow Super Giants,1,4,0,0,4,Punjab Kings
+38,Ayush Badoni,Lucknow Super Giants,0.1,0,0,0,0,Punjab Kings
+38,Naveen-ul-Haq,Lucknow Super Giants,4,30,3,1,7.5,Punjab Kings
+38,Avesh Khan,Lucknow Super Giants,2,28,0,0,14,Punjab Kings
+38,Amit Mishra,Lucknow Super Giants,2,23,0,0,11.5,Punjab Kings
+38,Ravi Bishnoi,Lucknow Super Giants,4,41,2,1,10.3,Punjab Kings
+38,Yash Thakur,Lucknow Super Giants,3.5,37,4,0,10.6,Punjab Kings
+38,Krunal Pandya,Lucknow Super Giants,1,13,0,0,13,Punjab Kings
+39,Mohammed Shami,Gujarat Titans,4,33,3,0,8.3,Kolkata Knight Riders
+39,Hardik Pandya,Gujarat Titans,3,34,0,0,11.3,Kolkata Knight Riders
+39,Rashid Khan,Gujarat Titans,4,54,0,0,13.5,Kolkata Knight Riders
+39,Joshua Little,Gujarat Titans,4,25,2,0,6.3,Kolkata Knight Riders
+39,Noor Ahmad,Gujarat Titans,4,21,2,0,5.3,Kolkata Knight Riders
+39,Mohit Sharma,Gujarat Titans,1,12,0,0,12,Kolkata Knight Riders
+39,Harshit Rana,Kolkata Knight Riders,3,25,1,0,8.3,Gujarat Titans
+39,Andre Russell,Kolkata Knight Riders,3,29,1,0,9.7,Gujarat Titans
+39,Varun Chakaravarthy,Kolkata Knight Riders,4,42,0,0,10.5,Gujarat Titans
+39,Suyash Sharma,Kolkata Knight Riders,4,37,0,0,9.3,Gujarat Titans
+39,Sunil Narine,Kolkata Knight Riders,3,24,1,0,8,Gujarat Titans
+39,Nitish Rana,Kolkata Knight Riders,0.5,14,0,0,28,Gujarat Titans
+40,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,45,1,0,11.3,Delhi Capitals
+40,Akeal Hosein,Sunrisers Hyderabad,4,40,1,0,10,Delhi Capitals
+40,T Natarajan,Sunrisers Hyderabad,4,34,1,0,8.5,Delhi Capitals
+40,Umran Malik,Sunrisers Hyderabad,1,22,0,0,22,Delhi Capitals
+40,Mayank Markande,Sunrisers Hyderabad,4,20,2,0,5,Delhi Capitals
+40,Abhishek Sharma,Sunrisers Hyderabad,3,26,1,0,8.7,Delhi Capitals
+40,Ishant Sharma,Delhi Capitals,3,31,1,0,10.3,Sunrisers Hyderabad
+40,Anrich Nortje,Delhi Capitals,4,44,0,0,11,Sunrisers Hyderabad
+40,Mukesh Kumar,Delhi Capitals,2,38,0,1,19,Sunrisers Hyderabad
+40,Mitchell Marsh,Delhi Capitals,4,27,4,0,6.8,Sunrisers Hyderabad
+40,Kuldeep Yadav,Delhi Capitals,3,27,0,0,9,Sunrisers Hyderabad
+40,Axar Patel,Delhi Capitals,4,29,1,0,7.3,Sunrisers Hyderabad
+41,Arshdeep Singh,Punjab Kings,4,37,1,0,9.3,Chennai Super Kings
+41,Kagiso Rabada,Punjab Kings,4,34,0,0,8.5,Chennai Super Kings
+41,Sam Curran,Punjab Kings,4,46,1,0,11.5,Chennai Super Kings
+41,Rahul Chahar,Punjab Kings,4,35,1,0,8.8,Chennai Super Kings
+41,Sikandar Raza,Punjab Kings,3,31,1,0,10.3,Chennai Super Kings
+41,Liam Livingstone,Punjab Kings,1,16,0,0,16,Chennai Super Kings
+41,Akash Singh,Chennai Super Kings,3,35,0,0,11.7,Punjab Kings
+41,Tushar Deshpande,Chennai Super Kings,4,49,3,0,12.3,Punjab Kings
+41,Maheesh Theekshana,Chennai Super Kings,4,36,0,0,9,Punjab Kings
+41,Ravindra Jadeja,Chennai Super Kings,4,32,2,0,8,Punjab Kings
+41,Moeen Ali,Chennai Super Kings,1,10,0,0,10,Punjab Kings
+41,Matheesha Pathirana,Chennai Super Kings,4,32,1,0,8,Punjab Kings
+42,Cameron Green,Mumbai Indians,3,31,0,0,10.3,Rajasthan Royals
+42,Jofra Archer,Mumbai Indians,4,35,1,1,8.8,Rajasthan Royals
+42,Riley Meredith,Mumbai Indians,4,51,1,0,12.8,Rajasthan Royals
+42,Piyush Chawla,Mumbai Indians,4,34,2,0,8.5,Rajasthan Royals
+42,Kumar Kartikeya,Mumbai Indians,2,14,0,0,7,Rajasthan Royals
+42,Arshad Khan,Mumbai Indians,3,39,3,0,13,Rajasthan Royals
+42,Trent Boult,Rajasthan Royals,4,43,1,0,10.8,Mumbai Indians
+42,Sandeep Sharma,Rajasthan Royals,4,35,1,0,8.8,Mumbai Indians
+42,Jason Holder,Rajasthan Royals,3.3,55,0,0,16.7,Mumbai Indians
+42,Ravichandran Ashwin,Rajasthan Royals,4,27,2,0,6.8,Mumbai Indians
+42,Yuzvendra Chahal,Rajasthan Royals,3,32,0,0,10.7,Mumbai Indians
+42,Kuldeep Sen,Rajasthan Royals,1,20,0,1,20,Mumbai Indians
+43,Krunal Pandya,Lucknow Super Giants,4,21,0,0,5.3,Royal Challengers Bangalore
+43,Marcus Stoinis,Lucknow Super Giants,1,11,0,0,11,Royal Challengers Bangalore
+43,Naveen-ul-Haq,Lucknow Super Giants,4,30,3,0,7.5,Royal Challengers Bangalore
+43,Ravi Bishnoi,Lucknow Super Giants,4,21,2,0,5.3,Royal Challengers Bangalore
+43,Amit Mishra,Lucknow Super Giants,3,21,2,0,7,Royal Challengers Bangalore
+43,Yash Thakur,Lucknow Super Giants,2,12,0,2,6,Royal Challengers Bangalore
+43,Krishnappa Gowtham,Lucknow Super Giants,2,10,1,0,5,Royal Challengers Bangalore
+43,Mohammed Siraj,Royal Challengers Bangalore,3,24,1,1,8,Lucknow Super Giants
+43,Josh Hazlewood,Royal Challengers Bangalore,3,15,2,1,5,Lucknow Super Giants
+43,Glenn Maxwell,Royal Challengers Bangalore,1,3,1,0,3,Lucknow Super Giants
+43,Wanindu Hasaranga,Royal Challengers Bangalore,4,20,1,0,5,Lucknow Super Giants
+43,Karn Sharma,Royal Challengers Bangalore,4,20,2,0,5,Lucknow Super Giants
+43,Harshal Patel,Royal Challengers Bangalore,3.5,20,1,0,5.7,Lucknow Super Giants
+43,Mahipal Lomror,Royal Challengers Bangalore,1,4,0,0,4,Lucknow Super Giants
+44,Mohammed Shami,Gujarat Titans,4,11,4,0,2.8,Delhi Capitals
+44,Hardik Pandya,Gujarat Titans,1,0,0,0,0,Delhi Capitals
+44,Rashid Khan,Gujarat Titans,4,28,1,1,7,Delhi Capitals
+44,Joshua Little,Gujarat Titans,3,27,0,0,9,Delhi Capitals
+44,Noor Ahmad,Gujarat Titans,4,20,0,2,5,Delhi Capitals
+44,Mohit Sharma,Gujarat Titans,4,33,2,0,8.3,Delhi Capitals
+44,Khaleel Ahmed,Delhi Capitals,4,24,2,0,6,Gujarat Titans
+44,Ishant Sharma,Delhi Capitals,4,23,2,0,5.8,Gujarat Titans
+44,Anrich Nortje,Delhi Capitals,4,39,1,0,9.8,Gujarat Titans
+44,Kuldeep Yadav,Delhi Capitals,4,15,1,0,3.8,Gujarat Titans
+44,Axar Patel,Delhi Capitals,4,24,0,0,6,Gujarat Titans
+45,Deepak Chahar,Chennai Super Kings,4,41,0,0,10.3,Mumbai Indians
+45,Tushar Deshpande,Chennai Super Kings,1,1,0,0,1,Mumbai Indians
+45,Moeen Ali,Chennai Super Kings,4,13,2,0,3.3,Mumbai Indians
+45,Maheesh Theekshana,Chennai Super Kings,4,37,2,0,9.3,Mumbai Indians
+45,Ravindra Jadeja,Chennai Super Kings,3,11,1,0,3.7,Mumbai Indians
+45,Matheesha Pathirana,Chennai Super Kings,3.2,22,2,0,6.9,Mumbai Indians
+46,Cameron Green,Mumbai Indians,2,15,0,0,7.5,Chennai Super Kings
+46,Arshad Khan,Mumbai Indians,4,48,1,0,12,Chennai Super Kings
+46,Jofra Archer,Mumbai Indians,4,56,0,1,14,Chennai Super Kings
+46,Piyush Chawla,Mumbai Indians,4,29,2,0,7.3,Chennai Super Kings
+46,Kumar Kartikeya,Mumbai Indians,3,24,0,0,8,Chennai Super Kings
+46,Akash Madhwal,Mumbai Indians,3,37,0,1,12.3,Chennai Super Kings
+46,Rishi Dhawan,Punjab Kings,3,20,1,0,6.7,Sunrisers Hyderabad
+46,Arshdeep Singh,Punjab Kings,3.5,66,1,0,18.9,Sunrisers Hyderabad
+46,Sam Curran,Punjab Kings,3,41,0,0,13.7,Sunrisers Hyderabad
+46,Nathan Ellis,Punjab Kings,4,34,2,0,8.5,Sunrisers Hyderabad
+46,Rahul Chahar,Punjab Kings,3,30,0,0,10,Sunrisers Hyderabad
+46,Harpreet Brar,Punjab Kings,2,21,0,0,10.5,Sunrisers Hyderabad
+47,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,33,1,0,8.3,Punjab Kings
+47,Marco Jansen,Sunrisers Hyderabad,3,24,2,1,8,Punjab Kings
+47,Kartik Tyagi,Sunrisers Hyderabad,2,30,1,1,15,Punjab Kings
+47,Aiden Markram,Sunrisers Hyderabad,3,24,1,0,8,Punjab Kings
+47,T Natarajan,Sunrisers Hyderabad,4,30,2,0,7.5,Punjab Kings
+47,Mayank Markande,Sunrisers Hyderabad,4,29,1,0,7.3,Punjab Kings
+47,Harshit Rana,Kolkata Knight Riders,4,27,1,0,6.8,Kolkata Knight Riders
+47,Vaibhav Arora,Kolkata Knight Riders,3,32,2,2,10.7,Kolkata Knight Riders
+47,Shardul Thakur,Kolkata Knight Riders,3,23,2,0,7.7,Kolkata Knight Riders
+47,Andre Russell,Kolkata Knight Riders,1,15,1,1,15,Kolkata Knight Riders
+47,Anukul Roy,Kolkata Knight Riders,3,26,1,0,8.7,Kolkata Knight Riders
+47,Sunil Narine,Kolkata Knight Riders,2,16,0,0,8,Kolkata Knight Riders
+47,Varun Chakaravarthy,Kolkata Knight Riders,4,20,1,0,5,Kolkata Knight Riders
+48,Mohammed Shami,Gujarat Titans,4,27,1,0,6.8,Gujarat Titans
+48,Hardik Pandya,Gujarat Titans,2,22,1,0,11,Gujarat Titans
+48,Rashid Khan,Gujarat Titans,4,14,3,0,3.5,Gujarat Titans
+48,Joshua Little,Gujarat Titans,4,24,1,0,6,Gujarat Titans
+48,Noor Ahmad,Gujarat Titans,3,25,2,0,8.3,Gujarat Titans
+48,Mohit Sharma,Gujarat Titans,0.5,5,0,0,10,Gujarat Titans
+48,Trent Boult,Rajasthan Royals,3,28,0,0,9.3,Rajasthan Royals
+48,Sandeep Sharma,Rajasthan Royals,3,19,0,1,6.3,Rajasthan Royals
+48,Adam Zampa,Rajasthan Royals,3,40,0,0,13.3,Rajasthan Royals
+48,Yuzvendra Chahal,Rajasthan Royals,3.5,22,1,0,6.3,Rajasthan Royals
+48,Ravichandran Ashwin,Rajasthan Royals,1,8,0,0,8,Rajasthan Royals
+49,Deepak Chahar,Chennai Super Kings,3,18,2,0,6,Mumbai Indians
+49,Tushar Deshpande,Chennai Super Kings,4,26,2,0,6.5,Mumbai Indians
+49,Ravindra Jadeja,Chennai Super Kings,4,37,1,0,9.3,Mumbai Indians
+49,Moeen Ali,Chennai Super Kings,1,10,0,0,10,Mumbai Indians
+49,Maheesh Theekshana,Chennai Super Kings,4,28,0,0,7,Mumbai Indians
+49,Matheesha Pathirana,Chennai Super Kings,4,15,3,0,3.8,Mumbai Indians
+49,Cameron Green,Mumbai Indians,1,10,0,1,10,Chennai Super Kings
+49,Jofra Archer,Mumbai Indians,4,24,0,0,6,Chennai Super Kings
+49,Arshad Khan,Mumbai Indians,1.4,28,0,0,20,Chennai Super Kings
+49,Piyush Chawla,Mumbai Indians,4,25,2,0,6.3,Chennai Super Kings
+49,Raghav Goyal,Mumbai Indians,4,33,0,0,8.3,Chennai Super Kings
+49,Tristan Stubbs,Mumbai Indians,2,14,1,0,7,Chennai Super Kings
+49,Akash Madhwal,Mumbai Indians,1,4,1,0,4,Chennai Super Kings
+50,Mohammed Siraj,Royal Challengers Bangalore,2,28,0,0,14,Delhi Capitals
+50,Glenn Maxwell,Royal Challengers Bangalore,1.4,14,0,0,10,Delhi Capitals
+50,Josh Hazlewood,Royal Challengers Bangalore,3,29,1,1,9.7,Delhi Capitals
+50,Wanindu Hasaranga,Royal Challengers Bangalore,4,32,0,0,8,Delhi Capitals
+50,Karn Sharma,Royal Challengers Bangalore,3,33,1,0,11,Delhi Capitals
+50,Mahipal Lomror,Royal Challengers Bangalore,1,16,0,0,16,Delhi Capitals
+50,Harshal Patel,Royal Challengers Bangalore,2,32,1,0,16,Delhi Capitals
+50,Khaleel Ahmed,Delhi Capitals,4,45,1,0,11.3,Royal Challengers Bangalore
+50,Axar Patel,Delhi Capitals,3,17,0,0,5.7,Royal Challengers Bangalore
+50,Ishant Sharma,Delhi Capitals,3,29,0,0,9.7,Royal Challengers Bangalore
+50,Mukesh Kumar,Delhi Capitals,3,30,1,0,10,Royal Challengers Bangalore
+50,Mitchell Marsh,Delhi Capitals,3,21,2,0,7,Royal Challengers Bangalore
+50,Kuldeep Yadav,Delhi Capitals,4,37,0,0,9.3,Royal Challengers Bangalore
+51,Mohsin Khan,Lucknow Super Giants,3,42,1,0,14,Gujarat Titans
+51,Avesh Khan,Lucknow Super Giants,4,34,1,0,8.5,Gujarat Titans
+51,Krunal Pandya,Lucknow Super Giants,4,38,0,0,9.5,Gujarat Titans
+51,Yash Thakur,Lucknow Super Giants,4,48,0,0,12,Gujarat Titans
+51,Ravi Bishnoi,Lucknow Super Giants,2,21,0,0,10.5,Gujarat Titans
+51,Kyle Mayers,Lucknow Super Giants,1,16,0,1,16,Gujarat Titans
+51,Swapnil Singh,Lucknow Super Giants,1,7,0,0,7,Gujarat Titans
+51,Marcus Stoinis,Lucknow Super Giants,1,20,0,0,20,Lucknow Super Giants
+51,Mohammed Shami,Gujarat Titans,4,37,1,0,9.3,Lucknow Super Giants
+51,Hardik Pandya,Gujarat Titans,3,37,0,0,12.3,Lucknow Super Giants
+51,Rashid Khan,Gujarat Titans,4,34,1,0,8.5,Lucknow Super Giants
+51,Noor Ahmad,Gujarat Titans,4,26,1,0,6.5,Lucknow Super Giants
+51,Mohit Sharma,Gujarat Titans,4,29,4,0,7.3,Lucknow Super Giants
+51,Alzarri Joseph,Gujarat Titans,1,5,0,0,5,Lucknow Super Giants
+52,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,44,1,0,11,Rajasthan Royals
+52,Marco Jansen,Sunrisers Hyderabad,4,44,1,0,11,Rajasthan Royals
+52,T Natarajan,Sunrisers Hyderabad,4,36,0,0,9,Rajasthan Royals
+52,Mayank Markande,Sunrisers Hyderabad,4,51,0,0,12.8,Rajasthan Royals
+52,Abhishek Sharma,Sunrisers Hyderabad,2,15,0,0,7.5,Rajasthan Royals
+52,Vivrant Sharma,Sunrisers Hyderabad,2,18,0,0,9,Rajasthan Royals
+52,Sandeep Sharma,Rajasthan Royals,4,48,0,0,12,Sunrisers Hyderabad
+52,Kuldip Yadav,Rajasthan Royals,4,50,1,0,12.5,Sunrisers Hyderabad
+52,Ravichandran Ashwin,Rajasthan Royals,4,35,1,0,8.8,Sunrisers Hyderabad
+52,Yuzvendra Chahal,Rajasthan Royals,4,29,4,0,7.3,Sunrisers Hyderabad
+52,Murugan Ashwin,Rajasthan Royals,3,42,0,0,14,Sunrisers Hyderabad
+52,Obed McCoy,Rajasthan Royals,1,13,0,0,13,Sunrisers Hyderabad
+53,Vaibhav Arora,Kolkata Knight Riders,3,32,0,0,10.7,Punjab Kings
+53,Harshit Rana,Kolkata Knight Riders,3,33,2,0,11,Punjab Kings
+53,Andre Russell,Kolkata Knight Riders,1,19,0,0,19,Punjab Kings
+53,Varun Chakaravarthy,Kolkata Knight Riders,4,26,3,0,6.5,Punjab Kings
+53,Suyash Sharma,Kolkata Knight Riders,4,26,1,0,6.5,Punjab Kings
+53,Sunil Narine,Kolkata Knight Riders,4,29,0,0,7.3,Punjab Kings
+53,Nitish Rana,Kolkata Knight Riders,1,7,1,0,7,Punjab Kings
+53,Rishi Dhawan,Punjab Kings,2,15,0,0,7.5,Kolkata Knight Riders
+53,Arshdeep Singh,Punjab Kings,4,39,0,0,9.8,Kolkata Knight Riders
+53,Nathan Ellis,Punjab Kings,4,29,1,0,7.3,Kolkata Knight Riders
+53,Sam Curran,Punjab Kings,3,44,0,0,14.7,Kolkata Knight Riders
+53,Liam Livingstone,Punjab Kings,2,27,0,0,13.5,Kolkata Knight Riders
+53,Harpreet Brar,Punjab Kings,1,4,1,0,4,Kolkata Knight Riders
+53,Rahul Chahar,Punjab Kings,4,23,2,0,5.8,Kolkata Knight Riders
+54,Jason Behrendorff,Mumbai Indians,4,36,3,0,9,Royal Challengers Bangalore
+54,Piyush Chawla,Mumbai Indians,4,41,0,0,10.3,Royal Challengers Bangalore
+54,Cameron Green,Mumbai Indians,2,15,1,0,7.5,Royal Challengers Bangalore
+54,Chris Jordan,Mumbai Indians,4,48,1,0,12,Royal Challengers Bangalore
+54,Kumar Kartikeya,Mumbai Indians,4,35,1,0,8.8,Royal Challengers Bangalore
+54,Akash Madhwal,Mumbai Indians,2,23,0,0,11.5,Royal Challengers Bangalore
+54,Mohammed Siraj,Royal Challengers Bangalore,3,31,0,0,10.3,Mumbai Indians
+54,Josh Hazlewood,Royal Challengers Bangalore,3,32,0,0,10.7,Mumbai Indians
+54,Wanindu Hasaranga,Royal Challengers Bangalore,4,53,2,0,13.3,Mumbai Indians
+54,Vijaykumar Vyshak,Royal Challengers Bangalore,3,37,2,0,12.3,Mumbai Indians
+54,Harshal Patel,Royal Challengers Bangalore,3.3,41,0,0,12.4,Mumbai Indians
+55,Khaleel Ahmed,Delhi Capitals,4,32,1,0,8,Chennai Super Kings
+55,Ishant Sharma,Delhi Capitals,2,23,0,0,11.5,Chennai Super Kings
+55,Lalit Yadav,Delhi Capitals,3,34,1,0,11.3,Chennai Super Kings
+55,Axar Patel,Delhi Capitals,4,27,2,0,6.8,Chennai Super Kings
+55,Kuldeep Yadav,Delhi Capitals,4,28,1,0,7,Chennai Super Kings
+55,Mitchell Marsh,Delhi Capitals,3,18,3,0,6,Chennai Super Kings
+55,Deepak Chahar,Chennai Super Kings,3,28,2,0,9.3,Delhi Capitals
+55,Tushar Deshpande,Chennai Super Kings,3,18,0,0,6,Delhi Capitals
+55,Maheesh Theekshana,Chennai Super Kings,2,16,0,0,8,Delhi Capitals
+55,Ravindra Jadeja,Chennai Super Kings,4,19,1,0,4.8,Delhi Capitals
+55,Moeen Ali,Chennai Super Kings,4,16,0,0,4,Delhi Capitals
+55,Matheesha Pathirana,Chennai Super Kings,4,37,3,0,9.3,Delhi Capitals
+56,Trent Boult,Rajasthan Royals,3,15,2,0,5,Kolkata Knight Riders
+56,Sandeep Sharma,Rajasthan Royals,4,34,1,0,8.5,Kolkata Knight Riders
+56,Ravichandran Ashwin,Rajasthan Royals,4,32,0,0,8,Kolkata Knight Riders
+56,Joe Root,Rajasthan Royals,2,14,0,0,7,Kolkata Knight Riders
+56,Yuzvendra Chahal,Rajasthan Royals,4,25,4,0,6.3,Kolkata Knight Riders
+56,KM Asif,Rajasthan Royals,3,27,1,0,9,Kolkata Knight Riders
+56,Nitish Rana,Kolkata Knight Riders,1,26,0,0,26,Rajasthan Royals
+56,Harshit Rana,Kolkata Knight Riders,2,22,0,0,11,Rajasthan Royals
+56,Shardul Thakur,Kolkata Knight Riders,1.1,18,0,0,16.4,Rajasthan Royals
+56,Varun Chakaravarthy,Kolkata Knight Riders,3,28,0,0,9.3,Rajasthan Royals
+56,Sunil Narine,Kolkata Knight Riders,2,13,0,0,6.5,Rajasthan Royals
+56,Suyash Sharma,Kolkata Knight Riders,3,22,0,0,7.3,Rajasthan Royals
+56,Anukul Roy,Kolkata Knight Riders,1,20,0,0,20,Rajasthan Royals
+57,Mohammed Shami,Gujarat Titans,4,53,0,0,13.3,Mumbai Indians
+57,Rashid Khan,Gujarat Titans,4,30,4,0,7.5,Mumbai Indians
+57,Noor Ahmad,Gujarat Titans,4,38,0,0,9.5,Mumbai Indians
+57,Mohit Sharma,Gujarat Titans,4,43,1,0,10.8,Mumbai Indians
+57,Alzarri Joseph,Gujarat Titans,4,52,0,0,13,Mumbai Indians
+57,Jason Behrendorff,Mumbai Indians,4,37,1,0,9.3,Gujarat Titans
+57,Akash Madhwal,Mumbai Indians,4,31,3,0,7.8,Gujarat Titans
+57,Chris Jordan,Mumbai Indians,4,34,0,0,8.5,Gujarat Titans
+57,Piyush Chawla,Mumbai Indians,4,36,2,0,9,Gujarat Titans
+57,Kumar Kartikeya,Mumbai Indians,3,37,2,0,12.3,Gujarat Titans
+57,Cameron Green,Mumbai Indians,1,13,0,0,13,Gujarat Titans
+58,Yudhvir Singh,Lucknow Super Giants,3,24,1,0,8,Sunrisers Hyderabad
+58,Kyle Mayers,Lucknow Super Giants,1,11,0,1,11,Sunrisers Hyderabad
+58,Krunal Pandya,Lucknow Super Giants,4,24,2,0,6,Sunrisers Hyderabad
+58,Avesh Khan,Lucknow Super Giants,2,30,1,0,15,Sunrisers Hyderabad
+58,Yash Thakur,Lucknow Super Giants,4,28,1,0,7,Sunrisers Hyderabad
+58,Amit Mishra,Lucknow Super Giants,4,40,1,0,10,Sunrisers Hyderabad
+58,Ravi Bishnoi,Lucknow Super Giants,2,23,0,0,11.5,Sunrisers Hyderabad
+58,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,30,0,0,7.5,Lucknow Super Giants
+58,Fazalhaq Farooqi,Sunrisers Hyderabad,3.2,32,0,0,10,Lucknow Super Giants
+58,Glenn Phillips,Sunrisers Hyderabad,2,10,1,0,5,Lucknow Super Giants
+58,T Natarajan,Sunrisers Hyderabad,4,31,0,0,7.8,Lucknow Super Giants
+58,Mayank Markande,Sunrisers Hyderabad,3,39,1,0,13,Lucknow Super Giants
+58,Abhishek Sharma,Sunrisers Hyderabad,3,42,1,0,14,Lucknow Super Giants
+59,Khaleel Ahmed,Delhi Capitals,4,36,0,0,9,Punjab Kings
+59,Ishant Sharma,Delhi Capitals,3,27,2,0,9,Punjab Kings
+59,Axar Patel,Delhi Capitals,4,27,1,0,6.8,Punjab Kings
+59,Praveen Dubey,Delhi Capitals,3,19,1,0,6.3,Punjab Kings
+59,Kuldeep Yadav,Delhi Capitals,4,32,1,0,8,Punjab Kings
+59,Mitchell Marsh,Delhi Capitals,1,21,0,0,21,Punjab Kings
+59,Mukesh Kumar,Delhi Capitals,1,3,1,0,3,Punjab Kings
+59,Rishi Dhawan,Punjab Kings,1,10,0,0,10,Delhi Capitals
+59,Sam Curran,Punjab Kings,2,18,0,0,9,Delhi Capitals
+59,Harpreet Brar,Punjab Kings,4,30,4,0,7.5,Delhi Capitals
+59,Nathan Ellis,Punjab Kings,4,26,2,0,6.5,Delhi Capitals
+59,Arshdeep Singh,Punjab Kings,4,32,0,0,8,Delhi Capitals
+59,Rahul Chahar,Punjab Kings,4,16,2,0,4,Delhi Capitals
+59,Sikandar Raza,Punjab Kings,1,3,0,0,3,Delhi Capitals
+60,Sandeep Sharma,Rajasthan Royals,4,34,1,0,8.5,Royal Challengers Bangalore
+60,Adam Zampa,Rajasthan Royals,4,25,2,0,6.3,Royal Challengers Bangalore
+60,Yuzvendra Chahal,Rajasthan Royals,4,37,0,0,9.3,Royal Challengers Bangalore
+60,Ravichandran Ashwin,Rajasthan Royals,4,33,0,0,8.3,Royal Challengers Bangalore
+60,KM Asif,Rajasthan Royals,4,42,2,0,10.5,Royal Challengers Bangalore
+60,Mohammed Siraj,Royal Challengers Bangalore,2,10,1,0,5,Rajasthan Royals
+60,Wayne Parnell,Royal Challengers Bangalore,3,10,3,0,3.3,Rajasthan Royals
+60,Michael Bracewell,Royal Challengers Bangalore,3,16,2,0,5.3,Rajasthan Royals
+60,Karn Sharma,Royal Challengers Bangalore,1.3,19,2,0,14.6,Rajasthan Royals
+60,Glenn Maxwell,Royal Challengers Bangalore,1,3,1,0,3,Rajasthan Royals
+61,Vaibhav Arora,Kolkata Knight Riders,4,30,1,1,7.5,Chennai Super Kings
+61,Harshit Rana,Kolkata Knight Riders,2,19,0,0,9.5,Chennai Super Kings
+61,Varun Chakaravarthy,Kolkata Knight Riders,4,36,2,0,9,Chennai Super Kings
+61,Sunil Narine,Kolkata Knight Riders,4,15,2,0,3.8,Chennai Super Kings
+61,Shardul Thakur,Kolkata Knight Riders,3,15,1,0,5,Chennai Super Kings
+61,Suyash Sharma,Kolkata Knight Riders,3,29,0,1,9.7,Chennai Super Kings
+61,Deepak Chahar,Chennai Super Kings,3,27,3,0,9,Kolkata Knight Riders
+61,Tushar Deshpande,Chennai Super Kings,3.3,25,0,0,7.6,Kolkata Knight Riders
+61,Moeen Ali,Chennai Super Kings,4,31,0,0,7.8,Kolkata Knight Riders
+61,Maheesh Theekshana,Chennai Super Kings,3,22,0,0,7.3,Kolkata Knight Riders
+61,Matheesha Pathirana,Chennai Super Kings,3,23,0,1,7.7,Kolkata Knight Riders
+61,Ravindra Jadeja,Chennai Super Kings,2,18,0,0,9,Kolkata Knight Riders
+62,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,30,5,0,7.5,Gujarat Titans
+62,Marco Jansen,Sunrisers Hyderabad,4,39,1,2,9.8,Gujarat Titans
+62,Fazalhaq Farooqi,Sunrisers Hyderabad,3,31,1,0,10.3,Gujarat Titans
+62,T Natarajan,Sunrisers Hyderabad,4,34,1,0,8.5,Gujarat Titans
+62,Aiden Markram,Sunrisers Hyderabad,1,13,0,0,13,Gujarat Titans
+62,Mayank Markande,Sunrisers Hyderabad,3,27,0,0,9,Gujarat Titans
+62,Abhishek Sharma,Sunrisers Hyderabad,1,13,0,0,13,Gujarat Titans
+62,Mohammed Shami,Gujarat Titans,4,30,4,0,7.5,Sunrisers Hyderabad
+62,Yash Dayal,Gujarat Titans,4,31,1,0,7.8,Sunrisers Hyderabad
+62,Rashid Khan,Gujarat Titans,4,28,0,0,7,Sunrisers Hyderabad
+62,Mohit Sharma,Gujarat Titans,4,28,4,0,7,Sunrisers Hyderabad
+62,Noor Ahmad,Gujarat Titans,2.5,35,0,0,14,Sunrisers Hyderabad
+62,Rahul Tewatia,Gujarat Titans,1.1,7,0,0,6.4,Sunrisers Hyderabad
+63,Jason Behrendorff,Mumbai Indians,4,30,2,0,7.5,Lucknow Super Giants
+63,Chris Jordan,Mumbai Indians,4,50,0,0,12.5,Lucknow Super Giants
+63,Hrithik Shokeen,Mumbai Indians,3,20,0,0,6.7,Lucknow Super Giants
+63,Piyush Chawla,Mumbai Indians,3,26,1,0,8.7,Lucknow Super Giants
+63,Akash Madhwal,Mumbai Indians,4,30,0,0,7.5,Lucknow Super Giants
+63,Cameron Green,Mumbai Indians,2,16,0,0,8,Lucknow Super Giants
+63,Krunal Pandya,Lucknow Super Giants,4,27,0,0,6.8,Mumbai Indians
+63,Mohsin Khan,Lucknow Super Giants,3,26,1,0,8.7,Mumbai Indians
+63,Naveen-ul-Haq,Lucknow Super Giants,4,37,0,1,9.3,Mumbai Indians
+63,Yash Thakur,Lucknow Super Giants,4,40,2,1,10,Mumbai Indians
+63,Swapnil Singh,Lucknow Super Giants,1,11,0,0,11,Mumbai Indians
+63,Ravi Bishnoi,Lucknow Super Giants,4,26,2,0,6.5,Mumbai Indians
+64,Sam Curran,Punjab Kings,4,36,2,0,9,Delhi Capitals
+64,Kagiso Rabada,Punjab Kings,3,36,0,0,12,Delhi Capitals
+64,Arshdeep Singh,Punjab Kings,2,21,0,0,10.5,Delhi Capitals
+64,Nathan Ellis,Punjab Kings,4,46,0,0,11.5,Delhi Capitals
+64,Rahul Chahar,Punjab Kings,4,35,0,0,8.8,Delhi Capitals
+64,Harpreet Brar,Punjab Kings,3,39,0,0,13,Delhi Capitals
+64,Khaleel Ahmed,Delhi Capitals,3,20,1,0,6.7,Punjab Kings
+64,Ishant Sharma,Delhi Capitals,3,36,2,0,12,Punjab Kings
+64,Anrich Nortje,Delhi Capitals,4,36,2,0,9,Punjab Kings
+64,Mukesh Kumar,Delhi Capitals,4,52,0,0,13,Punjab Kings
+64,Axar Patel,Delhi Capitals,3,27,1,0,9,Punjab Kings
+64,Kuldeep Yadav,Delhi Capitals,3,21,0,0,7,Punjab Kings
+65,Mohammed Siraj,Royal Challengers Bangalore,4,17,1,0,4.3,Sunrisers Hyderabad
+65,Wayne Parnell,Royal Challengers Bangalore,4,35,0,0,8.8,Sunrisers Hyderabad
+65,Michael Bracewell,Royal Challengers Bangalore,2,13,2,0,6.5,Sunrisers Hyderabad
+65,Shahbaz Ahmed,Royal Challengers Bangalore,3,38,1,0,12.7,Sunrisers Hyderabad
+65,Harshal Patel,Royal Challengers Bangalore,4,37,1,0,9.3,Sunrisers Hyderabad
+65,Karn Sharma,Royal Challengers Bangalore,3,45,0,0,15,Sunrisers Hyderabad
+65,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,48,1,0,12,Royal Challengers Bangalore
+65,Abhishek Sharma,Sunrisers Hyderabad,3,28,0,0,9.3,Royal Challengers Bangalore
+65,T Natarajan,Sunrisers Hyderabad,4,34,1,0,8.5,Royal Challengers Bangalore
+65,Kartik Tyagi,Sunrisers Hyderabad,1.2,21,0,0,17.5,Royal Challengers Bangalore
+65,Nitish Reddy,Sunrisers Hyderabad,2,19,0,0,9.5,Royal Challengers Bangalore
+65,Mayank Dagar,Sunrisers Hyderabad,4,25,0,0,6.3,Royal Challengers Bangalore
+65,Glenn Phillips,Sunrisers Hyderabad,1,10,0,0,10,Royal Challengers Bangalore
+66,Trent Boult,Rajasthan Royals,4,35,1,0,8.8,Chennai Super Kings
+66,Sandeep Sharma,Rajasthan Royals,4,46,0,1,11.5,Chennai Super Kings
+66,Navdeep Saini,Rajasthan Royals,4,40,3,0,10,Chennai Super Kings
+66,Adam Zampa,Rajasthan Royals,4,26,1,0,6.5,Chennai Super Kings
+66,Yuzvendra Chahal,Rajasthan Royals,4,40,0,0,10,Chennai Super Kings
+66,Sam Curran,Chennai Super Kings,4,46,1,0,11.5,Rajasthan Royals
+66,Kagiso Rabada,Chennai Super Kings,4,40,2,1,10,Rajasthan Royals
+66,Arshdeep Singh,Chennai Super Kings,4,40,1,0,10,Rajasthan Royals
+66,Nathan Ellis,Chennai Super Kings,4,34,1,0,8.5,Rajasthan Royals
+66,Rahul Chahar,Chennai Super Kings,3.4,28,1,0,8.2,Rajasthan Royals
+67,Khaleel Ahmed,Delhi Capitals,4,45,1,0,11.3,Chennai Super Kings
+67,Lalit Yadav,Delhi Capitals,2,32,0,0,16,Chennai Super Kings
+67,Axar Patel,Delhi Capitals,3,32,0,0,10.7,Chennai Super Kings
+67,Anrich Nortje,Delhi Capitals,4,43,1,0,10.8,Chennai Super Kings
+67,Chetan Sakariya,Delhi Capitals,4,36,1,0,9,Chennai Super Kings
+67,Kuldeep Yadav,Delhi Capitals,3,34,0,0,11.3,Chennai Super Kings
+67,Deepak Chahar,Chennai Super Kings,4,22,3,0,5.5,Delhi Capitals
+67,Tushar Deshpande,Chennai Super Kings,4,26,1,0,6.5,Delhi Capitals
+67,Maheesh Theekshana,Chennai Super Kings,4,23,2,0,5.8,Delhi Capitals
+67,Ravindra Jadeja,Chennai Super Kings,4,50,1,0,12.5,Delhi Capitals
+67,Matheesha Pathirana,Chennai Super Kings,4,22,2,0,5.5,Delhi Capitals
+68,Harshit Rana,Kolkata Knight Riders,3,21,1,0,7,Lucknow Super Giants
+68,Vaibhav Arora,Kolkata Knight Riders,4,30,2,1,7.5,Lucknow Super Giants
+68,Varun Chakaravarthy,Kolkata Knight Riders,4,38,1,0,9.5,Lucknow Super Giants
+68,Nitish Rana,Kolkata Knight Riders,1,3,0,0,3,Lucknow Super Giants
+68,Shardul Thakur,Kolkata Knight Riders,2,27,2,1,13.5,Lucknow Super Giants
+68,Sunil Narine,Kolkata Knight Riders,4,28,2,0,7,Lucknow Super Giants
+68,Suyash Sharma,Kolkata Knight Riders,1,12,0,0,12,Lucknow Super Giants
+68,Andre Russell,Kolkata Knight Riders,1,12,0,0,12,Lucknow Super Giants
+68,Mohsin Khan,Lucknow Super Giants,1,15,0,0,15,Kolkata Knight Riders
+68,Naveen-ul-Haq,Lucknow Super Giants,4,46,0,0,11.5,Kolkata Knight Riders
+68,Krunal Pandya,Lucknow Super Giants,4,30,1,0,7.5,Kolkata Knight Riders
+68,Krishnappa Gowtham,Lucknow Super Giants,4,26,1,0,6.5,Kolkata Knight Riders
+68,Ravi Bishnoi,Lucknow Super Giants,4,23,2,0,5.8,Kolkata Knight Riders
+68,Yash Thakur,Lucknow Super Giants,3,31,2,0,10.3,Kolkata Knight Riders
+69,Jason Behrendorff,Mumbai Indians,3,36,0,0,12,Sunrisers Hyderabad
+69,Cameron Green,Mumbai Indians,1,2,0,0,2,Sunrisers Hyderabad
+69,Chris Jordan,Mumbai Indians,4,42,1,0,10.5,Sunrisers Hyderabad
+69,Akash Madhwal,Mumbai Indians,4,37,4,1,9.3,Sunrisers Hyderabad
+69,Piyush Chawla,Mumbai Indians,4,39,0,0,9.8,Sunrisers Hyderabad
+69,Kumar Kartikeya,Mumbai Indians,4,39,0,0,9.8,Sunrisers Hyderabad
+69,Bhuvneshwar Kumar,Sunrisers Hyderabad,4,26,1,0,6.5,Mumbai Indians
+69,Nitish Reddy,Sunrisers Hyderabad,3,35,0,0,11.7,Mumbai Indians
+69,Mayank Dagar,Sunrisers Hyderabad,4,37,1,0,9.3,Mumbai Indians
+69,Kartik Tyagi,Sunrisers Hyderabad,2.5,41,0,3,16.4,Mumbai Indians
+69,Umran Malik,Sunrisers Hyderabad,3,41,0,0,13.7,Mumbai Indians
+69,Vivrant Sharma,Sunrisers Hyderabad,1,19,0,1,19,Mumbai Indians
+69,Aiden Markram,Sunrisers Hyderabad,0.1,1,0,0,10,Mumbai Indians
+70,Mohammed Shami,Gujarat Titans,4,39,1,0,9.8,Royal Challengers Bangalore
+70,Yash Dayal,Gujarat Titans,4,39,1,0,9.8,Royal Challengers Bangalore
+70,Rashid Khan,Gujarat Titans,4,24,1,0,6,Royal Challengers Bangalore
+70,Noor Ahmad,Gujarat Titans,4,39,2,0,9.8,Royal Challengers Bangalore
+70,Mohit Sharma,Gujarat Titans,4,54,0,0,13.5,Royal Challengers Bangalore
+70,Mohammed Siraj,Royal Challengers Bangalore,4,32,2,0,8,Gujarat Titans
+70,Wayne Parnell,Royal Challengers Bangalore,3.1,42,0,1,13.5,Gujarat Titans
+70,Vijaykumar Vyshak,Royal Challengers Bangalore,4,40,1,0,10,Gujarat Titans
+70,Himanshu Sharma,Royal Challengers Bangalore,3,28,0,0,9.3,Gujarat Titans
+70,Harshal Patel,Royal Challengers Bangalore,4,29,1,0,7.3,Gujarat Titans
+70,Michael Bracewell,Royal Challengers Bangalore,1,16,0,0,16,Gujarat Titans

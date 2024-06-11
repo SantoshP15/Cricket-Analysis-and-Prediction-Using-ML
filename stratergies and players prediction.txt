@@ -1,0 +1,94 @@
+FOR BATSMAN*
+
+
+import pandas as pd
+
+# Load the dataset
+data_batting = pd.read_csv('/content/alltime_batting_stats.csv')
+data_bowling = pd.read_csv('/content/alltime_bowling_stats.csv')
+
+# Function to recommend top 4 batsmen from a specific team based on average runs scored
+def recommend_batsmen(target_runs, team):
+    # Filter data for the specified team
+    team_data = data_batting[data_batting['Batter Team(s)'] == team]
+
+    # Sort batsmen from the specified team based on average runs scored
+    batsmen_sorted = team_data.sort_values(by=['Batting Average',], ascending=False)
+
+    # Select top 4 batsmen
+    recommended_batsmen = batsmen_sorted.head(10)['Batter'].tolist()
+
+    return recommended_batsmen
+
+# Get user input for target runs and team
+target_runs = int(input("Enter the target runs: "))
+team = input("Enter the team name: ")
+
+# Recommend top 4 batsmen for the target runs from the specified team
+recommended_batsmen = recommend_batsmen(target_runs, team)
+
+# Print the recommended batsmen
+print(f"From team {team}  these players are capable to chase such target:")
+for i, batsman in enumerate(recommended_batsmen, 1):
+    print(f"{i}. {batsman}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOR BOWLER*
+
+
+import pandas as pd
+
+# Load the dataset
+data_batting = pd.read_csv('/content/alltime_batting_stats.csv')
+data_bowling = pd.read_csv('/content/alltime_bowling_stats.csv')
+
+# Function to recommend top N bowlers from a specific team based on bowling average and total wickets
+def recommend_bowlers(target_wickets, team, top_n=10):
+    try:
+        # Filter data for the specified team
+        team_data = data_bowling[data_bowling['Bowler Team(s)'] == team]
+
+        # Sort bowlers from the specified team based on bowling average and total wickets
+        bowlers_sorted = team_data.sort_values(by=['Bowling Average','Wickets per Match'], ascending=[True, True])
+
+        # Select top N bowlers
+        recommended_bowlers = bowlers_sorted.head(top_n)['Bowler'].tolist()
+
+        return recommended_bowlers
+    except KeyError:
+        print("Team name not found in the dataset.")
+        return []
+    except ValueError:
+        print("Please enter a valid integer for target wickets.")
+        return []
+
+# Get user input for target wickets and team
+try:
+    target_wickets = int(input("Enter the score: "))
+    team = input("Enter the bowler team name: ")
+
+    # Recommend top 4 bowlers for the target wickets from the specified team
+    recommended_bowlers = recommend_bowlers(target_wickets, team)
+
+    if recommended_bowlers:
+        # Print the recommended bowlers
+        print(f" From team {team} these bowlers are Suitable to defend the score :")
+        for i, bowler in enumerate(recommended_bowlers, 1):
+            print(f"{i}. {bowler}")
+    else:
+        print("No recommendation available.")
+except KeyboardInterrupt:
+    print("\nExiting...")
+except Exception as e:
+    print(f"An error occurred: {str(e)}")
